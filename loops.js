@@ -25,3 +25,4 @@ function min(numbers){
 }
 
 console.log(max([7, 8, 9, 99]));
+console.log(min([7, 8, 9, 99]));
